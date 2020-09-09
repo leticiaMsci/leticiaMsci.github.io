@@ -5,7 +5,7 @@ landing-title: 'Hi, my name is Leticia'
 description: null
 author: null
 show_tile: false
-image: assets/images/DSC_1627.jpg
+image: assets/images/profile.jpg
 ---
 ![]({{ site.url | absolute_path}}/assets/images/profile.jpg =100x)
 
