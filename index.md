@@ -8,6 +8,6 @@ show_tile: false
 image: assets/images/profile.png
 ---
 
-![profile image]({{ site.url | absolute_path}}/assets/images/profile.png =250x250)
+![profile image]({{ site.url | absolute_path}}/assets/images/profile.png){:height="50%" width="50%"}
 
 I am a physicist and an engineer who, as an undergraduate, completed three research projects and won awards for each respectively. I hope to design creative engineering solutions for optical devices and to join a team where I can apply my hard-work and experience towards solving milestones within the photonics industry.
