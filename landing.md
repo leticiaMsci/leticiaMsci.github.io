@@ -1,8 +1,8 @@
 ---
 title: 3D modelling
 layout: landing
-description: 'I enjoy 3D modelling for fun, to illustrate scientific concepts and to 3D print.'
-image: assets/images/3dmodellingbanner.png
+description: 'I enjoy 3D modelling for fun.'
+image: assets/images/render3.png
 nav-menu: true
 ---
 
@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<!-- <h2>Sed amet aliquam</h2> -->
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>My interest in 3D modelling was initially devoted to improve my scientific illustrations. From that I started experimenting with 3D printing and animations. I am by no means a CG artist, though I see this site as a opportunity to share my creations.  </p>
 	</div>
 </section>
 
