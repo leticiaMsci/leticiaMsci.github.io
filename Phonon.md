@@ -14,4 +14,8 @@ This series is inspired by a thread I saw on twitter a long time ago where peopl
 When a french person goes to a vietnamese restaurant and refuses the chef's suggestion:
 <!-- <blockquote>Pho? Non!</blockquote> -->
 </p>
-<span class="image fit"><img src="{% link assets/images/pho.gif %}" alt="" /></span>
+<!-- <span class="image fit"><img src="{% link assets/images/pho.gif %}" alt="" /></span> -->
+
+<video width="320" height="320" autoplay>
+  <source src="0001-0093.mp4" type="video/mp4">
+</video> 
