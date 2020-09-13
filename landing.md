@@ -2,7 +2,7 @@
 title: 3D modelling
 layout: landing
 description: 'I enjoy 3D modelling for fun, to illustrate scientific concepts and to 3D print.'
-image: assets/images/pic07.jpg
+image: assets/images/3dmodellingbanner.png
 nav-menu: true
 ---
 
