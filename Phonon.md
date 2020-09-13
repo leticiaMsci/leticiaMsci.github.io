@@ -15,9 +15,9 @@ show_tile: false
 
 <ul class="alt">
     <li>When a french person goes to a vietnamese restaurant and refuses the chef's suggestion:
-    <iframe width="560" height="515" src="https://www.youtube.com/embed/Wn0ceuyPSGg?autoplay=1&loop=1" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+    <iframe width="360" height="365" src="https://www.youtube.com/embed/Wn0ceuyPSGg?autoplay=1&loop=1" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
     </li>
-    <li>Sagittis lorem eleifend.</li>
+    <li>When you are in a movie theater and you phone starts ringing:</li>
     <li>Felis feugiat viverra.</li>
 </ul>
 
