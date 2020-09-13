@@ -1,7 +1,7 @@
 ---
 title: 3D modelling
 layout: landing
-description: 'I 3D model for fun.'
+description: 'I 3D model for fun'
 image: assets/images/render3.png
 nav-menu: true
 ---
@@ -23,7 +23,7 @@ nav-menu: true
 <section id="two" class="spotlights">
 	<section>
 		<a href="Phonon.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
+			<img src="{% link assets/images/phonon.png %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
