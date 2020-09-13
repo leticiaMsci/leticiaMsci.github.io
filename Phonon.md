@@ -11,8 +11,15 @@ show_tile: false
 
 <h4>A phonon is...</h4>
 
-<p>When a french person goes to a vietnamese restaurant and refuses the chef's suggestion:</p>
-<!-- <blockquote>Pho? Non!</blockquote> -->
 
-<div> <iframe width="560" height="515" src="https://www.youtube.com/embed/Wn0ceuyPSGg?autoplay=1&loop=1" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</div>
+
+<ul class="alt">
+    <li>When a french person goes to a vietnamese restaurant and refuses the chef's suggestion:
+    <iframe width="560" height="515" src="https://www.youtube.com/embed/Wn0ceuyPSGg?autoplay=1&loop=1" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+    </li>
+    <li>Sagittis lorem eleifend.</li>
+    <li>Felis feugiat viverra.</li>
+</ul>
+
+<!-- 
+<iframe width="560" height="515" src="https://www.youtube.com/embed/Wn0ceuyPSGg?autoplay=1&loop=1" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
