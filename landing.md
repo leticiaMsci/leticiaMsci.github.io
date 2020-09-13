@@ -1,7 +1,7 @@
 ---
-title: Landing
+title: 3D modelling
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'I enjoy 3D modelling for fun, to illustrate scientific concepts and to 3D print.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
