@@ -12,9 +12,8 @@ show_tile: false
 <h4>A phonon is...</h4>
 <hr />
 <p>When a french person goes to a vietnamese restaurant and refuses the chef's suggestion:</p>
-<iframe src="https://giphy.com/embed/PkRpJ795WXBHCylWMe" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/PkRpJ795WXBHCylWMe">via GIPHY</a></p>
 
-<iframe width="360" height="365" src="https://www.youtube.com/embed/Wn0ceuyPSGg?autoplay=1&loop=1" frameborder="0"  allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>   
+<iframe src="https://giphy.com/embed/UShgCD2xe2M4AKmhPc" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/UShgCD2xe2M4AKmhPc">via GIPHY</a></p> 
 
 
 <hr />
