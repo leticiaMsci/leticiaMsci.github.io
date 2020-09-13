@@ -17,4 +17,4 @@ show_tile: false
 
 
 <hr />
-<p> When you are in a movie theater and you phone rings</p>
+<p> When you are in a movie theater and you phone rings:</p>
