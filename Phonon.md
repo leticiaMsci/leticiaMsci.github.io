@@ -10,11 +10,10 @@ show_tile: false
 This series is inspired by a thread I saw on twitter a long time ago where people were answering the question "What is a phonon?". Unfortunately I can't find the original tweet anymore, I suppose the autor deleted it. If you happen to know the original tweet, please let me know so I can give the proper credits.
 
 <h4>A phonon is...</h4>
-<!-- <p><span class="image right"><img src="{% link assets/images/ezgif.com-gif-maker.gif %}" alt="" /></span> -->
+
 When a french person goes to a vietnamese restaurant and refuses the chef's suggestion:
 <!-- <blockquote>Pho? Non!</blockquote> -->
-<!-- </p> -->
-<!-- <span class="image fit"><img src="{% link assets/images/pho.gif %}" alt="" /></span> -->
+
 
 <video width="320" height="320" autoplay>
   <source src="0001-0093.mp4" type="video/mp4">
