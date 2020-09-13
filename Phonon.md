@@ -14,7 +14,4 @@ This series is inspired by a thread I saw on twitter a long time ago where peopl
 When a french person goes to a vietnamese restaurant and refuses the chef's suggestion:
 <!-- <blockquote>Pho? Non!</blockquote> -->
 
-
-<video width="320" height="320" autoplay>
-  <source src="0001-0093.mp4" type="video/mp4">
-</video> 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Wn0ceuyPSGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
