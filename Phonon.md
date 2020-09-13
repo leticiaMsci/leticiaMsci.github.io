@@ -13,7 +13,7 @@ This series is inspired by a thread I saw on twitter a long time ago where peopl
 <!-- <p><span class="image right"><img src="{% link assets/images/ezgif.com-gif-maker.gif %}" alt="" /></span> -->
 When a french person goes to a vietnamese restaurant and refuses the chef's suggestion:
 <!-- <blockquote>Pho? Non!</blockquote> -->
-</p>
+<!-- </p> -->
 <!-- <span class="image fit"><img src="{% link assets/images/pho.gif %}" alt="" /></span> -->
 
 <video width="320" height="320" autoplay>
