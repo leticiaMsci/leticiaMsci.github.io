@@ -14,4 +14,4 @@ show_tile: false
 <p>When a french person goes to a vietnamese restaurant and refuses the chef's suggestion:</p>
 <!-- <blockquote>Pho? Non!</blockquote> -->
 
-<iframe width="560" height="515" src="https://www.youtube.com/embed/Wn0ceuyPSGg" frameborder="1" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="515" src="https://www.youtube.com/embed/Wn0ceuyPSGg" frameborder="1"  loop=1 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
