@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Leticia'
+landing-title: 'Hi! This website is still under development.'
 description: null
 author: null
 show_tile: false
