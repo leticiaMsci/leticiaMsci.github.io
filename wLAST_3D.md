@@ -1,5 +1,5 @@
 ---
-title: 3D modelling
+title: 3D Modelling
 layout: landing
 description: 'I 3D model for fun'
 image: assets/images/render3.png
