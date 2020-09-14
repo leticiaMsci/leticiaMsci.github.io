@@ -12,3 +12,4 @@ show_tile: false
 <iframe src="https://giphy.com/embed/W6pedlNo0e2f4hklw9" width="480" height="360" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/W6pedlNo0e2f4hklw9">via GIPHY</a></p>
 
 
+<span class="image fit"><img src="{% link assets/images/pic03.jpg %}" alt="" /></span>
