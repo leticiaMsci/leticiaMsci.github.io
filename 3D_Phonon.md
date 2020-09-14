@@ -19,3 +19,7 @@ show_tile: false
 <p> When you are in a movie theater and your phone rings:</p>
 <iframe src="https://giphy.com/embed/XDLAsVyZSsY7M02hNi" width="480" height="400" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/XDLAsVyZSsY7M02hNi">via GIPHY</a></p>
 
+
+
+
+<p>If you want higher definition images, send me an email and I will be happy to provide.</p>
