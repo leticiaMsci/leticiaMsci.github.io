@@ -5,7 +5,19 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-
+	<script src="siema.min.js"></script>
+	<script>
+	  new Siema();
+	</script>
+	
+{% if page.carousel %}
+<!-- Google CDN Hosted jQuery  -->
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+<!-- Flexslider Library  -->
+<script src="/js/flexslider.min.js"></script>
+<!-- Initialisation Code  -->
+<script src="/js/main.js"></script>
+{% endif %}
 {% include head.html %}
 
 <body>
