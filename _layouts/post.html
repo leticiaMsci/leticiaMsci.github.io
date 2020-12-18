@@ -5,14 +5,7 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
 <html>
-	{% if page.carousel %}
-	<!-- Google CDN Hosted jQuery  -->
-	<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
-	<!-- Flexslider Library  -->
-	<script src="/js/flexslider.min.js"></script>
-	<!-- Initialisation Code  -->
-	<script src="/js/app.js"></script>
-	{% endif %}
+
 {% include head.html %}
 
 <body>
@@ -44,6 +37,14 @@
 		{% endif %}
 		
 		{{ content }}
+		{% if page.carousel %}
+		<!-- Google CDN Hosted jQuery  -->
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
+		<!-- Flexslider Library  -->
+		<script src="/js/flexslider.min.js"></script>
+		<!-- Initialisation Code  -->
+		<script src="/js/app.js"></script>
+		{% endif %}
 	</div>
 </section>
 
