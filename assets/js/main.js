@@ -4,6 +4,27 @@
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
 
+
+
+/*
+Adding Carousel
+*/
+// Initialise FlexSlider for Carousels
+$(window).load(function() {
+    $('.flexslider').flexslider({
+    animation: "fade",
+    controlNav: false,
+    directionNav: true,
+    slideshowSpeed: 5000,
+    animationSpeed: 600,
+    touch: true
+    });
+});
+
+
+
+
+
 (function($) {
 
 	skel.breakpoints({
