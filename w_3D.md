@@ -22,6 +22,23 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
+		<a href="3D_gotyournose.html" class="image">
+			<img src="{% link assets/images/GotYourNose_Logo.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Christmas!</h3>
+				</header>
+				<p>Some christmas illustrations.</p>
+				<ul class="actions">
+					<li><a href="3D_Phonon.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+	<section>
 		<a href="3D_Phonon.html" class="image">
 			<img src="{% link assets/images/phonon.png %}" alt="" data-position="center center" />
 		</a>
