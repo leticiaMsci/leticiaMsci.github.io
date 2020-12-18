@@ -6,23 +6,6 @@
 
 
 
-/*
-Adding Carousel
-*/
-// Initialise FlexSlider for Carousels
-$(window).load(function() {
-    $('.flexslider').flexslider({
-    animation: "fade",
-    controlNav: false,
-    directionNav: true,
-    slideshowSpeed: 5000,
-    animationSpeed: 600,
-    touch: true
-    });
-});
-
-
-
 
 
 (function($) {
@@ -118,6 +101,26 @@ $(window).load(function() {
 			$wrapper = $('#wrapper'),
 			$header = $('#header'),
 			$banner = $('#banner');
+
+
+			
+
+/*
+Adding Carousel
+*/
+// Initialise FlexSlider for Carousels
+$(window).load(function() {
+    $('.flexslider').flexslider({
+    animation: "fade",
+    controlNav: false,
+    directionNav: true,
+    slideshowSpeed: 5000,
+    animationSpeed: 600,
+    touch: true
+    });
+});
+
+
 
 		// Disable animations/transitions until the page has loaded.
 			$body.addClass('is-loading');
@@ -367,6 +370,7 @@ $(window).load(function() {
 							$menu._hide();
 
 				});
+				
 
 	});
 
