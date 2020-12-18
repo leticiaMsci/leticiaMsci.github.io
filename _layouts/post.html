@@ -4,18 +4,7 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 -->
-<script src="siema.min.js"></script>
-<script>
-  new Siema();
-</script>
-{% if page.carousel %}
-<!-- Google CDN Hosted jQuery  -->
-<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.2/jquery.min.js"></script>
-<!-- Flexslider Library  -->
-<script src="/js/flexslider.min.js"></script>
-<!-- Initialisation Code  -->
-<script src="/js/main.js"></script>
-{% endif %}
+
 <html>
 
 {% include head.html %}
@@ -29,12 +18,6 @@
 <div id="main" class="alt">
 
 <!-- One -->
-<div class="siema">
-	<div>Hi, I'm slide 1</div>
-	<div>Hi, I'm slide 2</div>
-	<div>Hi, I'm slide 3</div>
-	<div>Hi, I'm slide 4</div>
-  </div>
 <section id="one">
 	<div class="inner">
 		<header class="major">
@@ -42,18 +25,8 @@
 		</header>
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		
-		{% if page.carousel %}
-		<div class="flexslider">
-		  <ul class="slides">
-			{% for slides in page.carousel %}
-			<li>
-			  <img src="{{ slides.image }}">
-			</li>
-			{% endfor %}
-		  </ul>
-		</div>
-		{% endif %}
-		
+		{% include carousel.html height="50" unit="%" duration="7" %}
+
 		{{ content }}
 	
 	</div>
