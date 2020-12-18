@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Silica Microspheres
-description: T
+description: During my masters, I investigated Brillouin Scattering in silica microspheres. Here I compile some of the illustrations I produced for my reports.
 image: null
 nav-menu: false
 show_tile: false
