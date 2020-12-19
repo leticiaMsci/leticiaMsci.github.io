@@ -255,9 +255,9 @@
 		$(window).load(function() {
 		    $('.flexslider').flexslider({
 		    animation: "fade",
-		    controlNav: false,
+		    controlNav: true,
 		    directionNav: true,
-		    slideshowSpeed: 5000,
+		    slideshowSpeed: 0,
 		    animationSpeed: 600,
 		    touch: true
 		    });

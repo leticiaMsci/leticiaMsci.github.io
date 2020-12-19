@@ -26,6 +26,7 @@
 		
 
 		{% if page.carousel %}
+		<span class="image main">
 		<div class="flexslider">
 		  <ul class="slides">
 			{% for slides in page.carousel %}
@@ -35,6 +36,7 @@
 			{% endfor %}
 		  </ul>
 		</div>
+	</span>
 		{% endif %}
 		{{ content }}
 	</div>
