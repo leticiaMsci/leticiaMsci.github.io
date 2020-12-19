@@ -26,7 +26,9 @@
 		{% if page.image %}<span class="image main"><img src="{{ site.baseurl }}/{{ page.image }}" alt="" /></span>{% endif %}
 		
 
-		{% if page.images %}{% include carousel.html height="50" unit="%" duration="7" %}{% endif %}
+		{% if page.carousel %}
+		include carousel.html height="50" unit="%" duration=""
+		{% endif %}
 
 		{{ content }}
 	
