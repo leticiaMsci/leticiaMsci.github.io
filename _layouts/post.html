@@ -6,7 +6,6 @@
 -->
 
 <html>
-
 {% include head.html %}
 
 <body>
@@ -27,11 +26,17 @@
 		
 
 		{% if page.carousel %}
-		{% include carousel.html height="50" unit="%" duration="" %}
+		<div class="flexslider">
+		  <ul class="slides">
+			{% for slides in page.carousel %}
+			<li>
+			  <img src="{{ slides.image }}">
+			</li>
+			{% endfor %}
+		  </ul>
+		</div>
 		{% endif %}
-
 		{{ content }}
-	
 	</div>
 </section>
 
