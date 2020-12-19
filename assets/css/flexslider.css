@@ -131,22 +131,19 @@ html[xmlns] .flexslider .slides {
     transition: all .3s ease; 
 }
 .flex-direction-nav a:before {
-  font-family: "flexslider-icon";
-  font-size: 40px;
-  display: inline-block;
-  content: '\f001';
-  color: rgba(0, 0, 0, 0.8);
-  text-shadow: 1px 1px 0 rgba(255, 255, 255, 0.3);
+    font-family: serif;
+    content: "";
 }
 .flex-direction-nav a.flex-next:before {
-  content: '\f002';
+    display: block;
+    opacity: 1;
 }
 .flex-direction-nav .flex-prev {
-  left: auto;
+    left: 0;
 }
 .flex-direction-nav .flex-next {
-  right: auto;
-  text-align: right;
+    right: 0;
+  
 }
 .flexslider:hover .flex-direction-nav .flex-prev {
   opacity: 0.7;
@@ -233,6 +230,7 @@ html[xmlns] .flexslider .slides {
 .flex-control-thumbs {
   margin: 5px 0 0;
   position: static;
+
 }
 .flex-control-thumbs li {
   width: 25%;
@@ -262,13 +260,13 @@ html[xmlns] .flexslider .slides {
 /* ====================================================================================================================
  * RESPONSIVE
  * ====================================================================================================================*/
-@media screen and (max-width: 500px) {
+@media screen and (max-width: 860px) {
   .flex-direction-nav .flex-prev {
     opacity: 1;
     left: 10px;
   }
   .flex-direction-nav .flex-next {
     opacity: 1;
-    right: 490px;
+    right: 10px;
   }
 }
