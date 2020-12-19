@@ -251,17 +251,14 @@
 
 			});
 
-		// Initialise FlexSlider for Carousels
-		$(window).load(function() {
-		    $('.flexslider').flexslider({
-		    animation: "fade",
-		    controlNav: true,
-		    directionNav: true,
-		    slideshowSpeed: 0,
-		    animationSpeed: 600,
-		    touch: true
-		    });
-		});
+// Can also be used with $(document).ready()
+// Can also be used with $(document).ready()
+$(window).load(function() {
+	$('.flexslider').flexslider({
+	  animation: "slide",
+	  controlNav: "thumbnails"
+	});
+  });
 
 
 		// Menu.
