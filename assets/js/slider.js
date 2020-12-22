@@ -31,7 +31,7 @@ $(document).ready(function(){
 	 //*> OPTIONAL SETTINGS
 	************************/
 	//automatic slider
-	var autoSlider = setInterval(slideRight, 0);
+	var autoSlider = setInterval(slideRight, 3000);
 	
 	//for each slide 
 	$.each($('#slider-wrap ul li'), function() { 
@@ -104,4 +104,3 @@ function pagination(){
 	$('#pagination-wrap ul li').removeClass('active');
 	$('#pagination-wrap ul li:eq('+pos+')').addClass('active');
 }
-		
