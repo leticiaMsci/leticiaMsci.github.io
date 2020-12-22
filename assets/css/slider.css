@@ -1,5 +1,3 @@
-/*GLOBALS*/
-*{margin:40; padding:40; list-style:none;}
 
 #wrapper{
 	width:800px;
@@ -21,7 +19,6 @@
 	position:absolute;
 	top:0;
 	left:0;		
-	overflow:hidden;
 }
 
 #slider-wrap ul#slider li{
