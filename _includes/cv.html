@@ -1,14 +1,19 @@
----
-layout: page
-title: About Me
-description: 
-image: assets/images/aboutme.jpg
-nav-menu: true
----
-
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>main</title>
   <style>
-
-    body.aboutme {
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
       margin: 0 auto;
       max-width: 36em;
       padding-left: 50px;
@@ -20,7 +25,18 @@ nav-menu: true
       text-rendering: optimizeLegibility;
       font-kerning: normal;
     }
-
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
       p, h2, h3 {
         orphans: 3;
         widows: 3;
@@ -31,6 +47,12 @@ nav-menu: true
     }
     p {
       margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
     }
     img {
       max-width: 100%;
@@ -76,7 +98,7 @@ nav-menu: true
      overflow: visible;
     }
     hr {
-      background-color: white;
+      background-color: #1a1a1a;
       border: none;
       height: 1px;
       margin: 1em 0;
@@ -108,7 +130,12 @@ nav-menu: true
       margin-bottom: 4em;
       text-align: center;
     }
-
+    #TOC li {
+      list-style: none;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
     code{white-space: pre-wrap;}
     span.smallcaps{font-variant: small-caps;}
     span.underline{text-decoration: underline;}
@@ -117,9 +144,11 @@ nav-menu: true
     ul.task-list{list-style: none;}
     .display.math{display: block; text-align: center; margin: 0.5rem auto;}
   </style>
-
-
-<body class="aboutme">
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
 <p><strong>Letícia Magalhães</strong><br />
 +55 19 9 8280 5631, <a href="https://www.linkedin.com/in/leticia-magalhaes/">in/leticia-magalhaes</a>, leticiamagalhaes5@gmail.com</p>
 <div style="color: cvrulecolor">
@@ -235,3 +264,4 @@ nav-menu: true
 <p><em>OSA Student Leadership Conference</em>, Washington D.C. , USA.</p>
 <p><em>Poster Presentation</em> “Study and Fabrication of Photonic Nanospikes” at XXV Scientific Initiation Congress of UNICAMP.</p>
 </body>
+</html>
