@@ -1,4 +1,4 @@
-
+(function($) {
 
 
 //current position
@@ -11,7 +11,7 @@ var sliderWidth = $('#slider-wrap').width();
 
 
 
-(function($) {
+$(document).ready(function(){
 	
 	
 	/*****************
@@ -64,7 +64,7 @@ var sliderWidth = $('#slider-wrap').width();
 	
 	
 
-})(jQuery);//DOCUMENT READY
+});//DOCUMENT READY
 	
 
 
@@ -111,3 +111,4 @@ function pagination(){
 }
 
 
+})(jQuery);
