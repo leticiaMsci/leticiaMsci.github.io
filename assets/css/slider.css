@@ -31,6 +31,11 @@
 	height:600px;	
 }
 
+img
+{
+   object-fit: contain;
+}
+
 #slider-wrap ul#slider li > div{
 	position:absolute;
 	top:20px;
