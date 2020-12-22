@@ -26,18 +26,32 @@
 		
 
 		{% if page.carousel %}
-	
-		<span class="flexslider">
-		  <ul class="slides">
+		{% include slider.html %}
+
+		<div id="wrapper">
+		<div id="slider-wrap">
+      	  <ul id="slider">
 			{% for slides in page.carousel %}
 			<li>
 			  <img src="{{ slides.image }}">
 			</li>
 			{% endfor %}
-		  </ul>
-		</span>
-
+		  </ul>          
+		<!--controls-->
+	   <div class="btns" id="next"><i class="fa fa-arrow-right"></i></div>
+	   <div class="btns" id="previous"><i class="fa fa-arrow-left"></i></div>
+	   <div id="counter"></div>
+	   <div id="pagination-wrap">
+		 <ul>
+		 </ul>
+	   </div>
+	   <!--controls-->  		  
+   </div>
+</div>
 		{% endif %}
+
+
+
 		{{ content }}
 	</div>
 </section>
