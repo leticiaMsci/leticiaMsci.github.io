@@ -1,7 +1,7 @@
 ---
 title: 3D Modelling
 layout: landing
-description: 'I 3D model for fun'
+description: 'My interest in 3D modelling was initially devoted to improve my scientific illustrations. From that I started experimenting with 3D printing and animations. I am by no means a CG artist, though I see this site as a opportunity to share my creations.  '
 image: assets/images/render3.png
 nav-menu: true
 ---
@@ -15,7 +15,7 @@ nav-menu: true
 		<header class="major">
 			<!-- <h2>Sed amet aliquam</h2> -->
 		</header>
-		<p>My interest in 3D modelling was initially devoted to improve my scientific illustrations. From that I started experimenting with 3D printing and animations. I am by no means a CG artist, though I see this site as a opportunity to share my creations.  </p>
+		<p></p>
 	</div>
 </section>
 
@@ -30,9 +30,9 @@ nav-menu: true
 				<header class="major">
 					<h3>Christmas!</h3>
 				</header>
-				<p>Some christmas illustrations.</p>
+				<p>I was in the Christmas mood today and wanted to create something on the fun side.</p>
 				<ul class="actions">
-					<li><a href="3D_Phonon.html" class="button">Learn more</a></li>
+					<!-- <li><a href="3D_Phonon.html" class="button">Learn more</a></li> -->
 				</ul>
 			</div>
 		</div>

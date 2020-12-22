@@ -1,15 +1,14 @@
 ---
 layout: post
-title:  "Test Slider"
+title:  "Gallery"
 date: 2013-07-03 21:40:10
-categories: test slider
+categories:
 carousel:
   - image: assets\images\IMG_1557.jpg
   - image: assets\images\IMG_1672.jpg
   - image: assets\images\IMG_1737.jpg
   - image: assets\images\IMG_1747.jpg
-  - image: assets\images\pic06.jpg
 
 ---
 
-Lorem ipsum dolor sit amet, consectetur...
+A gallery of photos.
