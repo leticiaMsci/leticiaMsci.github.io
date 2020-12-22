@@ -6,6 +6,10 @@ categories: test slider
 carousel:
   - image: assets\images\IMG_1557.jpg
   - image: assets\images\IMG_1672.jpg
+  - image: assets\images\IMG_1737.jpg
+  - image: assets\images\IMG_1747.jpg
+  - image: assets\images\pic06.jpg
+
 ---
 
 Lorem ipsum dolor sit amet, consectetur...
