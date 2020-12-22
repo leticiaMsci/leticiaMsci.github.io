@@ -64,7 +64,7 @@ var sliderWidth = $('#slider-wrap').width();
 	
 	
 
-});//DOCUMENT READY
+})(jQuery);//DOCUMENT READY
 	
 
 
@@ -111,4 +111,3 @@ function pagination(){
 }
 
 
-})(jQuery);
