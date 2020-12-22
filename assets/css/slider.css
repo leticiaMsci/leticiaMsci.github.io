@@ -118,7 +118,7 @@
 	display: inline-block;
 	width:5px;
 	height:5px;
-	border-radius:50%;
+	border-radius:100%;
 	background:#fff;
 	opacity:0.5;
 	position:relative;
