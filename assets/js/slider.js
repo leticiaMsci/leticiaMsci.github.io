@@ -1,10 +1,3 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title></title>
-</head>
-<body>
-<script>
 //current position
 var pos = 0;
 //number of slides
@@ -112,7 +105,3 @@ function pagination(){
 	$('#pagination-wrap ul li:eq('+pos+')').addClass('active');
 }
 		
-	
-</script>
-</body>
-</html>
