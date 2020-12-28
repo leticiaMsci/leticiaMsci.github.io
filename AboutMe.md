@@ -123,7 +123,9 @@ nav-menu: true
 <p><strong>Letícia Magalhães</strong><br />
 +55 19 9 8280 5631, <a href="https://www.linkedin.com/in/leticia-magalhaes/">in/leticia-magalhaes</a>, leticiamagalhaes5@gmail.com</p>
 <div style="color: cvrulecolor">
+
 <hr />
+<h2>Research Experience</h2>
 </div>
 <p><span><span style="color: cvdurationcolor">January to April, 2019</span></span></p>
 <p><span><span style="color: cvtitlecolor">Intern at the Optical and Wireless Transmission Research Group</span></span></p>
@@ -148,6 +150,7 @@ nav-menu: true
 </ul>
 <div style="color: cvrulecolor">
 <hr />
+<h2>Education</h2>
 </div>
 <p><span><span style="color: cvdurationcolor">2019 – currently</span></span></p>
 <p><span><span style="color: cvtitlecolor">M. Sc. Applied Physics</span></span></p>
@@ -165,6 +168,7 @@ nav-menu: true
 <p>Coursework included: electromagnetism, quantum mechanics, solid state physics, statistical physics, and more.</p>
 <div style="color: cvrulecolor">
 <hr />
+<h2>Skills and Experience</h2>
 </div>
 <p><span><span style="color: cvheadingcolor">Simulation</span></span></p>
 <p><strong>Comsol Multiphysics:</strong> 4+ years of experience with Comsol. Proficient in the physics: Electromagnetic waves, Solid Mechanics and PDE Interfaces.</p>
@@ -181,6 +185,7 @@ nav-menu: true
 <p><strong>Blender:</strong> Intermediate level. You can find some of my creations at <a href="http://www.leticiamagalhaes.science/w_3D.html">http://www.leticiamagalhaes.science/w_3D</a>.</p>
 <div style="color: cvrulecolor">
 <hr />
+<h2>Awards</h2>
 </div>
 <p><span><span style="color: cvdurationcolor">2018</span></span></p>
 <p><span><span style="color: cvtitlecolor">Honorable Mention</span></span></p>
@@ -193,10 +198,12 @@ nav-menu: true
 <p>For the project “Mobile Spectrograph on a smartphone camera”. This award was given to the top 40 out of 1711 projects executed during the year and presented at the congress.</p>
 <div style="color: cvrulecolor">
 <hr />
+<h2>Publications</h2>
 </div>
 <p>Jarschel, P.F., Magalhaes, L.S., Aldaya, I., Florez, O. and Dainese, P., 2018. Fiber taper diameter characterization using forward Brillouin scattering. <em>Optics letters</em>, 43(5), pp.995-998.</p>
 <div style="color: cvrulecolor">
 <hr />
+<h2>Leadership and Extracurricular</h2>
 </div>
 <p><span><span style="color: cvdurationcolor">2020</span></span></p>
 <p><span><span style="color: cvtitlecolor">Vice-President of the UNICAMP Optical Society Students Chapter</span></span></p>
@@ -226,6 +233,7 @@ nav-menu: true
 <p>Worked on quotation for expenses, organized cash-flow reports.</p>
 <div style="color: cvrulecolor">
 <hr />
+<h2>Conferences</h2>
 </div>
 <p><em>OSA Student Leadership Conference</em>, online.</p>
 <p><em>International OSA Network of Students (IONS) and Escuela Latinoamericana de Óptica (ELO)</em>, State University of Campinas, Sao Paulo, Brazil.</p>
