@@ -194,7 +194,7 @@ nav-menu: true
 <p><span><span style="color: cvtitlecolor"><a href="https://www.prp.unicamp.br/pibic/congressos/xxvcongresso/">Scientific Merit Prize - XXV Scientific Initiation Congress of UNICAMP</a></span></span></p>
 <p>For the project “Study and Fabrication of Photonic Nanospikes”. This award was given to the top 20 out of 1698 projects executed during the year and presented at the congress.</p>
 <p><span><span style="color: cvdurationcolor">2016</span></span></p>
-<p><span><span style="color: cvtitlecolor">Honorable Mention - XXIV Scientific Initiation Congress of UNICAMP</span></span></p>
+<p><span><span style="color: cvtitlecolor"><a href="https://www.prp.unicamp.br/pibic/congressos/xxivcongresso/">Honorable Mention - XXIV Scientific Initiation Congress of UNICAMP</a></span></span></p>
 <p>For the project “Mobile Spectrograph on a smartphone camera”. This award was given to the top 40 out of 1711 projects executed during the year and presented at the congress.</p>
 <div style="color: cvrulecolor">
 <hr />
