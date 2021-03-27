@@ -10,7 +10,7 @@ nav-menu: true
 
     body.aboutme {
       margin: 0 auto;
-      max-width: 60em;
+      max-width: 50em;
       padding-left: 20px;
       padding-right: 20px;
       padding-top: 50px;
@@ -200,8 +200,8 @@ nav-menu: true
 <hr />
 <h2>Publications</h2>
 </div>
-<p>Jarschel, P.F., Magalhaes, L.S., Aldaya, I., Florez, O. and Dainese, P., 2018. Fiber taper diameter characterization using forward Brillouin scattering. <em>Optics letters</em>, 43(5), pp.995-998.</p>
-<a href="https://doi.org/10.1364/OL.43.000995">https://doi.org/10.1364/OL.43.000995</a>
+<p>Jarschel, P.F., Magalhaes, L.S., Aldaya, I., Florez, O. and Dainese, P., 2018. Fiber taper diameter characterization using forward Brillouin scattering. <em>Optics letters</em>, 43(5), pp.995-998. <a href="https://doi.org/10.1364/OL.43.000995">https://doi.org/10.1364/OL.43.000995</a></p>
+
 
 <div style="color: cvrulecolor">
 <hr />
