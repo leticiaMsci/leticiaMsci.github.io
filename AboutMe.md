@@ -146,7 +146,7 @@ nav-menu: true
 <p>Optical Communications Laboratory, State University of Campinas.</p>
 <ul>
 <li><p>Project: <em>Study and Fabrication of Photonic Nanospikes.</em> Advised by professor Paulo Dainese. Undergraduate Student Researcher scholarship granted by PIBIC.</p></li>
-<li><p>Developed the fabrication of photonic nanospikes, measured and simulated its self-alignment by optical forces in the core of a photonic band-gap fiber. You can find a poster <a href="assets/pdf/Poster_PIBIC2017.pdf" target="blank">here.</a></p></li>
+<li><p>Developed the fabrication of photonic nanospikes, measured and simulated its self-alignment by optical forces in the core of a photonic band-gap fiber. You can find a poster about this research <a href="assets/pdf/Poster_PIBIC2017.pdf" target="blank">here.</a></p></li>
 </ul>
 <div style="color: cvrulecolor">
 <hr />
@@ -201,6 +201,8 @@ nav-menu: true
 <h2>Publications</h2>
 </div>
 <p>Jarschel, P.F., Magalhaes, L.S., Aldaya, I., Florez, O. and Dainese, P., 2018. Fiber taper diameter characterization using forward Brillouin scattering. <em>Optics letters</em>, 43(5), pp.995-998.</p>
+<a href="https://doi.org/10.1364/OL.43.000995">https://doi.org/10.1364/OL.43.000995</a>
+
 <div style="color: cvrulecolor">
 <hr />
 <h2>Leadership and Extracurricular</h2>

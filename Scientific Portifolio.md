@@ -14,8 +14,8 @@ carousel:
 
 A gallery of photos.
 
-Onion: https://docs.google.com/presentation/d/1D7fE_lGH47Q02TlPv0cQA6BKaFdV_qgyC5zr5-mqHyc/edit?usp=sharing
-Tarantula: https://docs.google.com/presentation/d/1AUnUDuvDBSN_g6OFbsxFahFdBEr2ANEm5IaHp-pYffs/edit?usp=sharing
+Onion: [link to presentation](https://docs.google.com/presentation/d/1D7fE_lGH47Q02TlPv0cQA6BKaFdV_qgyC5zr5-mqHyc/edit?usp=sharing)
+Tarantula: [link to presentation](https://docs.google.com/presentation/d/1AUnUDuvDBSN_g6OFbsxFahFdBEr2ANEm5IaHp-pYffs/edit?usp=sharing)
 
 <a href="assets/pdf/Poster_PIBIC2017.pdf" target="blank">Nanospikes</a>
 <a href="assets/pdf/Relatorio_Parcial_FAPESP_corrigido.pdf" target="blank">Master's partial report</a>
