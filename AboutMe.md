@@ -191,7 +191,7 @@ nav-menu: true
 <p><span><span style="color: cvtitlecolor">Honorable Mention</span></span></p>
 <p>For the work “Photonic Couplers Based on Optical Forces” at the São Paulo School of Advanced Science on Frontiers in Lasers and Their Application and XVI Jorge Andre Swieca School.</p>
 <p><span><span style="color: cvdurationcolor">2017</span></span></p>
-<p><span><span style="color: cvtitlecolor">Scientific Merit Prize - XXV Scientific Initiation Congress of UNICAMP</span></span></p>
+<p><span><span style="color: cvtitlecolor"><a href="https://www.prp.unicamp.br/pibic/congressos/xxvcongresso/">Scientific Merit Prize - XXV Scientific Initiation Congress of UNICAMP</a></span></span></p>
 <p>For the project “Study and Fabrication of Photonic Nanospikes”. This award was given to the top 20 out of 1698 projects executed during the year and presented at the congress.</p>
 <p><span><span style="color: cvdurationcolor">2016</span></span></p>
 <p><span><span style="color: cvtitlecolor">Honorable Mention - XXIV Scientific Initiation Congress of UNICAMP</span></span></p>
