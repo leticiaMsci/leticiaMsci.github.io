@@ -12,9 +12,11 @@ carousel:
 
 ---
 
-A gallery of photos.
+<p><strong>Presentations</strong><br />
+Here are some interesting presentations I did in the past year.
 
-Onion: [link to presentation](https://docs.google.com/presentation/d/1D7fE_lGH47Q02TlPv0cQA6BKaFdV_qgyC5zr5-mqHyc/edit?usp=sharing)
+* "1D Weak-form solution of elastic wave equations in onion-like systems": [link to presentation](https://docs.google.com/presentation/d/1D7fE_lGH47Q02TlPv0cQA6BKaFdV_qgyC5zr5-mqHyc/edit?usp=sharing)
+... I presented this to my master's research group (LPD at UNICAMP, Brazil), discussing a numeric strategy to solve the elastic wave equation in spherical systems. I show that you can use a convenient ansatz to separate the solution's radial dependence and reduce the problem to a 1D domain (radial coordinate). This proved to be a paramount strategy to obtain acoustic modes in the whispering-gallery regime.
 
 Tarantula: [link to presentation](https://docs.google.com/presentation/d/1AUnUDuvDBSN_g6OFbsxFahFdBEr2ANEm5IaHp-pYffs/edit?usp=sharing)
 
