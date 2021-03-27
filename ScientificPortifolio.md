@@ -15,11 +15,9 @@ carousel:
 <h1>Presentations</h1>
 Here are some interesting presentations I did in the past year.
 <ol>
-<li><p>
- <b>"1D Weak-form solution of elastic wave equations in onion-like systems" 
+<li> <b>"1D Weak-form solution of elastic wave equations in onion-like systems" 
  (<a href="https://docs.google.com/presentation/d/1D7fE_lGH47Q02TlPv0cQA6BKaFdV_qgyC5zr5-mqHyc/edit?usp=sharing"> link to presentation</a>)</b>
- I presented this to my master's research group (LPD at UNICAMP, Brazil), discussing a numeric strategy to solve the elastic wave equation in spherical systems. I show that you can use a convenient ansatz to separate the solution's radial dependence and reduce the problem to a 1D domain (radial coordinate). This proved to be a paramount strategy to obtain acoustic modes in the whispering-gallery regime.</p></li>
-<p></p>
+ I presented this to my master's research group (LPD at UNICAMP, Brazil), discussing a numeric strategy to solve the elastic wave equation in spherical systems. I show that you can use a convenient ansatz to separate the solution's radial dependence and reduce the problem to a 1D domain (radial coordinate). This proved to be a paramount strategy to obtain acoustic modes in the whispering-gallery regime.</li>
 
 
 <li><p> <h2>"Tarantula-Inspired Noniridescent Photonics with Long-Range Order"
@@ -28,8 +26,11 @@ Here are some interesting presentations I did in the past year.
 </ol>
 
 <h1>Posters</h1>
-<p>
-<a href="assets/pdf/Poster_PIBIC2017.pdf" target="blank">Study and Fabrication of Photonic Nanospikes</a> </p>
+<ol>
+<li><a href="assets/pdf/Poster_PIBIC2017.pdf" target="blank">Study and Fabrication of Photonic Nanospikes</a> </li>
+</ol>
 
 <h1>Reports</h1>
-<p><a href="assets/pdf/Relatorio_Parcial_FAPESP_corrigido.pdf" target="blank">Master's partial report</a></p>
+<ol>
+<li><a href="assets/pdf/Relatorio_Parcial_FAPESP_corrigido.pdf" target="blank">Master's partial report</a></li>
+</ol>
