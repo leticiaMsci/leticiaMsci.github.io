@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-description:
+description: "The picture ia a play on Will Smith and Jada's >tada "
 image: assets/images/aboutme.jpg
 nav-menu: true
 ---
