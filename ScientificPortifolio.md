@@ -20,8 +20,8 @@ Here are some interesting presentations I did in the past year.
  I presented this to my master's research group (LPD at UNICAMP, Brazil), discussing a numeric strategy to solve the elastic wave equation in spherical systems. I show that you can use a convenient ansatz to separate the solution's radial dependence and reduce the problem to a 1D domain (radial coordinate). This proved to be a paramount strategy to obtain acoustic modes in the whispering-gallery regime.</li>
 
 
-<li><p> <h2>"Tarantula-Inspired Noniridescent Photonics with Long-Range Order"
-(<a href="https://docs.google.com/presentation/d/1AUnUDuvDBSN_g6OFbsxFahFdBEr2ANEm5IaHp-pYffs/edit?usp=sharing">link to presentation </a>)</h2> 
+<li><p> <b>"Tarantula-Inspired Noniridescent Photonics with Long-Range Order"
+(<a href="https://docs.google.com/presentation/d/1AUnUDuvDBSN_g6OFbsxFahFdBEr2ANEm5IaHp-pYffs/edit?usp=sharing">link to presentation </a>)</b> 
  This was a seminar I presented for my Material Science class, based on a scientific paper. The idea was to discuss the demonstration of noniridescent structural color by a design inspired on the nanostructures present on blue tarantula's hairs.</p></li>
 </ol>
 
