@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Me
-description: 
+description: 'PS: this picture was a play on the Will Smith's meme.'
 image: assets/images/aboutme.jpg
 nav-menu: true
 ---

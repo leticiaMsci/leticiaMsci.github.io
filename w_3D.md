@@ -1,7 +1,7 @@
 ---
 title: 3D Modelling
 layout: landing
-description: 'My interest in 3D modelling was initially devoted to improve my scientific illustrations. From that I started experimenting with 3D printing and animations. I am by no means a CG artist, though I see this site as a opportunity to share my creations.  '
+description: 'My interest in 3D modeling was initially devoted to improve my scientific illustrations. I see 3D modeling as a great way to quicly explain complex physical concepts by taking advantage of a "higher badwidth" of the visual sense.'
 image: assets/images/render3.png
 nav-menu: true
 ---
