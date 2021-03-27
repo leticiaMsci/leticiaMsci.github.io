@@ -15,6 +15,7 @@ carousel:
 A gallery of photos.
 
 Onion: [link to presentation](https://docs.google.com/presentation/d/1D7fE_lGH47Q02TlPv0cQA6BKaFdV_qgyC5zr5-mqHyc/edit?usp=sharing)
+
 Tarantula: [link to presentation](https://docs.google.com/presentation/d/1AUnUDuvDBSN_g6OFbsxFahFdBEr2ANEm5IaHp-pYffs/edit?usp=sharing)
 
 <a href="assets/pdf/Poster_PIBIC2017.pdf" target="blank">Nanospikes</a>
