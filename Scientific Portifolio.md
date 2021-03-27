@@ -2,10 +2,11 @@
 layout: post
 title:  "Scientific Portifolio"
 date: 2013-07-03 21:40:10
+image: 
 categories:
 carousel:
   - image: assets\images\1D Weak-form solution of elastic wave equations in onion-like systems.png
-  - image: assets\images\IMG_1672.jpg
+  - image: assets\images\Tarantula-Inspired Noniridescent Photonics with Long-Range Order.png
   - image: assets\images\IMG_1737.jpg
   - image: assets\images\IMG_1747.jpg
 
