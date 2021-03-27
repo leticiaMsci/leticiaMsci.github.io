@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "About Me (Web CV)"
-description: "The picture ia a play on Will Smith and Jada's >tada "
+title: "About Me"
+description: """Web CV, but the picture is a play on Will Smith and Jada's "tada" meme. """
 image: assets/images/aboutme.jpg
 nav-menu: true
 ---
