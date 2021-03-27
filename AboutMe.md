@@ -146,7 +146,7 @@ nav-menu: true
 <p>Optical Communications Laboratory, State University of Campinas.</p>
 <ul>
 <li><p>Project: <em>Study and Fabrication of Photonic Nanospikes.</em> Advised by professor Paulo Dainese. Undergraduate Student Researcher scholarship granted by PIBIC.</p></li>
-<li><p>Developed the fabrication of photonic nanospikes, measured and simulated its self-alignment by optical forces in the core of a photonic band-gap fiber.</p></li>
+<li><p>Developed the fabrication of photonic nanospikes, measured and simulated its self-alignment by optical forces in the core of a photonic band-gap fiber. You can find a poster <a href="assets/pdf/Poster_PIBIC2017.pdf" target="blank">here.</a></p></li>
 </ul>
 <div style="color: cvrulecolor">
 <hr />
@@ -156,7 +156,7 @@ nav-menu: true
 <p><span><span style="color: cvtitlecolor">M. Sc. Applied Physics</span></span></p>
 <p>Device Research Laboratory, State University of Campinas. Coursework included: quantum mechanics, scientific writing, material sciences, and topics in optics and photonics.</p>
 <ul>
-<li><p>Dissertation subject: Brillouin Scattering in Microspheres Encased by Alumina thin films. Advised by professor Gustavo Wiederhecker.</p></li>
+<li><p>Dissertation subject: Brillouin Scattering in Microspheres Encased by Alumina thin films. Advised by professor Gustavo Wiederhecker. You can find one of my reports here <a href="assets/pdf/Relatorio_Parcial_FAPESP_corrigido.pdf" target="blank">(Master's report)</a>.</p></li>
 </ul>
 <p><span><span style="color: cvdurationcolor">2014 – 2019</span></span></p>
 <p><span><span style="color: cvtitlecolor">B. Sc. Engineering Physics with emphasis in Optoelectronics</span></span></p>
