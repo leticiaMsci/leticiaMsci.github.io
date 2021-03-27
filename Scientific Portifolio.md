@@ -14,4 +14,5 @@ carousel:
 
 A gallery of photos.
 
-https://docs.google.com/presentation/d/1D7fE_lGH47Q02TlPv0cQA6BKaFdV_qgyC5zr5-mqHyc/edit?usp=sharing
+Onion: https://docs.google.com/presentation/d/1D7fE_lGH47Q02TlPv0cQA6BKaFdV_qgyC5zr5-mqHyc/edit?usp=sharing
+Tarantula: https://docs.google.com/presentation/d/1AUnUDuvDBSN_g6OFbsxFahFdBEr2ANEm5IaHp-pYffs/edit?usp=sharing
