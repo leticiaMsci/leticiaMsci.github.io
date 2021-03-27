@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Gallery"
+title:  "Scientific Portifolio"
 date: 2013-07-03 21:40:10
 categories:
 carousel:
