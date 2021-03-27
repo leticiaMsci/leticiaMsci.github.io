@@ -10,9 +10,9 @@ nav-menu: true
 
     body.aboutme {
       margin: 0 auto;
-      max-width: 36em;
-      padding-left: 50px;
-      padding-right: 50px;
+      max-width: 45em;
+      padding-left: 40px;
+      padding-right: 40px;
       padding-top: 50px;
       padding-bottom: 50px;
       hyphens: auto;
