@@ -188,7 +188,7 @@ nav-menu: true
 <h2>Awards</h2>
 </div>
 <p><span><span style="color: cvdurationcolor">2018</span></span></p>
-<p><span><span style="color: cvtitlecolor">Honorable Mention</span></span></p>
+<p><span><span style="color: cvtitlecolor"><a href= "https://sites.google.com/view/laserfrontiers/home?authuser=0">Honorable Mention </a></span></span></p>
 <p>For the work “Photonic Couplers Based on Optical Forces” at the São Paulo School of Advanced Science on Frontiers in Lasers and Their Application and XVI Jorge Andre Swieca School.</p>
 <p><span><span style="color: cvdurationcolor">2017</span></span></p>
 <p><span><span style="color: cvtitlecolor"><a href="https://www.prp.unicamp.br/pibic/congressos/xxvcongresso/">Scientific Merit Prize - XXV Scientific Initiation Congress of UNICAMP</a></span></span></p>
