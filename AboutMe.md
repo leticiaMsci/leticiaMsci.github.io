@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "About Me"
-description: 
+description: leticiaMsci.github.io
 image: assets/images/aboutme.jpg
 nav-menu: true
 ---
