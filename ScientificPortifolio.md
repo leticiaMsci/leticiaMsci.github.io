@@ -1,6 +1,7 @@
 ---
 layout: post
 title:  "Scientific Portifolio"
+description: Some of my scientific work. I will be posting more projects here soon!
 date: 2013-07-03 21:40:10
 image: 
 categories:
