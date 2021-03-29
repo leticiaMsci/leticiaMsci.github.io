@@ -2,7 +2,7 @@
 layout: home
 title: Home
 landing-title: 'Hi, my name is Leticia!'
-description: null
+description: Welcome to my wesite and thanks for coming by!
 author: null
 show_tile: false
 image: assets/images/profile.png
