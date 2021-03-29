@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "About Me"
+title: About Me
 description: A web CV but the image is a reference to Will Smith's "tada" meme!
 image: assets/images/aboutme.jpg
 nav-menu: true
@@ -121,7 +121,7 @@ nav-menu: true
 
 <body class="aboutme">
 <p><strong>Letícia Magalhães</strong><br />
-+55 19 9 8280 5631, <a href="https://www.linkedin.com/in/leticia-magalhaes/">in/leticia-magalhaes</a>, leticiamagalhaes5@gmail.com</p>
+<a href="https://www.linkedin.com/in/leticia-magalhaes/">in/leticia-magalhaes</a>, leticiamagalhaes5@gmail.com</p>
 <div style="color: cvrulecolor">
 
 <hr />
