@@ -196,6 +196,8 @@ nav-menu: true
 <p><span><span style="color: cvdurationcolor">2016</span></span></p>
 <p><span><span style="color: cvtitlecolor"><a href="https://www.prp.unicamp.br/pibic/congressos/xxivcongresso/">Honorable Mention - XXIV Scientific Initiation Congress of UNICAMP</a></span></span></p>
 <p>For the project “Mobile Spectrograph on a smartphone camera”. This award was given to the top 40 out of 1711 projects executed during the year and presented at the congress.</p>
+<p><span><span style="color: cvtitlecolor"><a href="https://portal.ifi.unicamp.br/a-instituicao/noticias/13-outras-noticias/1001-ainda-sobre-as-mulheres-corning-inc-e-optical-society-of-america-promovem-viagem-de-aluna-do-ifgw-a-ofc-2018">OFC diversity participation (San Diego, USA)</a></span></span></p>
+<p>Sponsored by OSA and Corning Inc. Granted travel expenses to attend to the first "Suzanne R. Nagel Lounge".</p>
 <div style="color: cvrulecolor">
 <hr />
 <h2>Publications</h2>
