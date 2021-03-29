@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Scientific Portifolio"
-description: Some of my scientific work. I will be posting more projects here soon!
+description: "whatever you find here is in the intersection between my favorite topics, nice illustrations and projects that are mature enough for me to enthusiastically talk about it (note to my advisors: cheers). I'll post more as new projects leave the "TOP SECRET" realm. "
 date: 2013-07-03 21:40:10
 image: 
 categories:
