@@ -1,5 +1,5 @@
 ---
-title: 3D Modelling
+title: 3D Modeling
 layout: landing
 description: My interest in 3D modeling was initially devoted to improve my scientific illustrations. I see 3D modeling as a great way to quicly explain complex physical concepts by taking advantage of the visual sense's "higher badwidth" .
 image: assets/images/render3.png
