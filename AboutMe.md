@@ -94,11 +94,11 @@ nav-menu: true
     }
     tbody {
       margin-top: 0.5em;
-      border-top: 1px solid #1a1a1a;
-      border-bottom: 1px solid #1a1a1a;
+      border-top: 1px solid #ffffff;
+      border-bottom: 1px solid #ffffff;
     }
     th {
-      border-top: 1px solid #1a1a1a;
+      border-top: 1px solid #ffffff;
       padding: 0.25em 0.5em 0.25em 0.5em;
     }
     td {
