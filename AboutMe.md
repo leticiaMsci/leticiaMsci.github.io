@@ -55,8 +55,8 @@ nav-menu: true
     blockquote {
       margin: 1em 0 1em 1.7em;
       padding-left: 1em;
-      border-left: 2px solid #e6e6e6;
-      color: #606060;
+      border-left: 2px solid #ffffff;
+      color:#cceeff;
     }
     code {
       font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
