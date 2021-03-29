@@ -3,7 +3,7 @@ layout: post
 title:  Scientific Portifolio
 description: whatever you find here is in the intersection between my favorite topics, nice illustrations and projects mature enough for me to enthusiastically talk about them. I'll post more as new projects leave the "TOP SECRET" realm. 
 date: 2013-07-03 21:40:10
-image: assets/images/joke.jpg
+image: assets/images/20191026_114529.jpg
 categories:
 carousel:
   - image: assets\images\1D Weak-form solution of elastic wave equations in onion-like systems.png
