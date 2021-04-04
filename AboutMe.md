@@ -132,7 +132,7 @@ nav-menu: true
 <p>Corning Incorporated, Sullivan Park, Corning NY.</p>
 <ul>
 <li><p>Participated in modeling and experimental work in integrated photonics.</p></li>
-<li><p>Worked on an exploratory project to extend the Coupled-Mode theory to account for power non-orthogonality. The goal was to carry on the formulation to simplify optimizations, aiming to design a short integrated photonic coupler robust to misalignment.</p></li>
+<li><p>Worked on an exploratory project to design a short integrated photonic coupler robust to misalignment.</p></li>
 </ul>
 <p><span><span style="color: cvdurationcolor">2017 – 2018</span></span></p>
 <p><span><span style="color: cvtitlecolor">Undergraduate Research Internship</span></span></p>
