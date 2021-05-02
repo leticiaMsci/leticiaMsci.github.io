@@ -12,11 +12,11 @@ nav-menu: true
 
 <p> Here you can find my CV and below are some of my extracurriculars</p>
 
-<object data="assets\pdf\CV_LeticiaMagalhaes.pdf" type="application/pdf" width="100%" height="600px">
+<!-- <object data="assets\pdf\CV_LeticiaMagalhaes.pdf" type="application/pdf" width="100%" height="600px">
     <embed src="assets\pdf\CV_LeticiaMagalhaes.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets\pdf\CV_LeticiaMagalhaes.pdf">Download PDF</a>.</p>
     </embed>
-</object>
+</object> -->
 
 
 
