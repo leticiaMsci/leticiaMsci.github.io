@@ -4,7 +4,7 @@ title:Innitiatives
 description: null
 image: assets\images\sbfoton.jpg
 nav-menu: false
-#show_tile: false
+show_tile: false
 ---
 
 <h1>Photonics Webinar Series </h1>
