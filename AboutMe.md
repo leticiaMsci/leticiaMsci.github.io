@@ -33,7 +33,7 @@ nav-menu: true
 </section>
 
 <!-- One -->
-<section id="two">
+<section id="two" class="spotlights">
   <a href="Initiatives.html" class="image">
     <img src="{% link assets/images/sbfoton.png %}" alt="" data-position="center center" />
   </a>
