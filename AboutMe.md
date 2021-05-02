@@ -34,25 +34,19 @@ nav-menu: true
 
 <!-- One -->
 <section id="one">
+  <a href="Initiatives.html" class="image">
+    <img src="{% link assets/images/sbfoton.png %}" alt="" data-position="center center" />
+  </a>
 	<div class="inner">
 		<header class="major">
 			  <h2>Initiatives</h2>
 		</header>
 		<p>I organized and enabled several events. Some of them were &quot;hard-core&quot; scientific, but some were geared towards diversity and inclusion initiatives. I found that brave spaces allowed me to talk about issues in STEM, and it was comforting to know that I wasn't alone, so I wanted to help others the same way.</p>
+    <ul class="actions">
+        <li><a href="Initiatives.html" class="button">Learn more</a></li>
+      </ul>
 	</div>
 </section>
-
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Massa libero</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section> 
 
 
 
