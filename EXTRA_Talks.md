@@ -16,3 +16,12 @@ show_tile: false
 
 ![test image]({{ site.url | absolute_path}}assets\images\Talks\Yu_Mengjie.png)
 
+<p></p>
+
+<h1>Chat with Niahm Kavanagh</h1>
+<p>I met Niahm at the 2020 Student Leadership conference. I immediately related to her experiences as a woman in STEM and shared many point of views about navigating this evironment. I felt like just talking to her gave me so much insight and perspective that I wanted others in my institute to feel the same way. So I approached a member of the Unicamp Physics Institute Graduate Students Union (APGF) and asked about organizing an informal conversation about diversity and inclusion with Niahm. </p>
+
+<p> Finally, the OSA student chapter and APGF collaborated to organize this event, which I am very thankful for happening. </p>
+
+![test image]({{ site.url | absolute_path}}assets\images\Talks\RodaDeConversaNiamh_3.png)
+
