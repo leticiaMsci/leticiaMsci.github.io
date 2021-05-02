@@ -23,24 +23,6 @@ nav-menu: true
 	</div>
 </section>
 
-<section id="two" class="spotlights">
-	<section>
-		<!-- <a href="EXTRA_Talks.html" class="image">
-			<img src="{% link assets\images\IMG_1672.jpg %}" alt="" data-position="center center" /> -->
-		<!-- </a> -->
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Initiatives</h3>
-				</header>
-				<p>>I organized and enabled several events. Some of them were &quot;hard-core&quot; scientific, but some were geared towards diversity and inclusion initiatives. I found that brave spaces allowed me to talk about issues in STEM, and it was comforting to know that I wasn't alone, so I wanted to help others the same way.</p>
-				<ul class="actions">
-					 <!-- <li><a href="EXTRA_Talks.html" class="button">Learn more</a></li>  -->
-				</ul>
-			</div>
-		</div>
-	</section>
-
 
 
 </div>
