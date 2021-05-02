@@ -32,7 +32,7 @@ nav-menu: true
 	</div>
 </section>
 
-<!-- One -->
+<!-- One
 <section id="two" class="spotlights">
 	<div class="inner">
 		<header class="major">
@@ -41,7 +41,48 @@ nav-menu: true
 		<p>I organized and enabled several events. Some of them were &quot;hard-core&quot; scientific, but some were geared towards diversity and inclusion initiatives. I found that brave spaces allowed me to talk about issues in STEM, and it was comforting to know that I wasn't alone, so I wanted to help others the same way.</p>
 	</div>
 </section>
+ -->
 
+<!--
+<div style="display: inline-flex;">
+  
+  <div>
+  		<a href="Initiatives.html" class="image">
+			<img  style="display: inline-block" src="/assets/images/phonon.png" width="500" height="400" data-position="center center" />
+		</a>
+  </div>
+
+  <div>
+  <h3>Initiatives</h3>
+
+<p>I organized and enabled several events. Some of them were &quot;hard-core&quot; scientific, but some were geared towards diversity and inclusion initiatives. I found that brave spaces allowed me to talk about issues in STEM, and it was comforting to know that I wasn't alone, so I wanted to help others the same way.</p>
+<ul class="actions">
+<li><a href="Initiatives.html" class="button next">Learn More</a></li>
+</ul>
+
+  
+  </div>
+</div>
+-->
+
+<section style="display: inline-flex;">
+		<a href="Initiatives.html" class="image">
+			<img src="/assets/images/phonon.png" data-position="center center" />
+		</a>
+		<div class="content" style="margin: 35px;">
+			<div class="inner">
+				<header class="major">
+					<h3>Initiatives</h3>
+				</header>
+				<p>I organized and enabled several events. Some of them were &quot;hard-core&quot; scientific, but some were geared towards diversity and inclusion initiatives. I found that brave spaces allowed me to talk about issues in STEM, and it was comforting to know that I wasn't alone, so I wanted to help others the same way.</p>
+				<ul class="actions">
+					<li><a href="Initiatives.html" class="button next">Learn More</a></li>
+				</ul>
+			</div>
+		</div>
+</section>
+
+<!-- One
 <section id="three">
 	<div class="inner">
 		<header class="major">
@@ -53,5 +94,5 @@ nav-menu: true
 		</ul>
 	</div>
 </section> 
-
+-->
 </div>
