@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: landing
 title: About Me
 #description: A web CV but the image is a reference to Will Smith's "tada" meme!
 image: assets/images/aboutme.jpg
@@ -26,3 +26,21 @@ nav-menu: true
 	</div>
 </section>
 </div>
+
+<section id="two" class="spotlights">
+	<section>
+		<a href="3D_gotyournose.html" class="image">
+			<img src="{% link assets/images/GotYourNose_Logo.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Christmas!</h3>
+				</header>
+				<p>I was in the Christmas mood today and wanted to create something on the fun side.</p>
+				<ul class="actions">
+					<!-- <li><a href="3D_Phonon.html" class="button">Learn more</a></li> -->
+				</ul>
+			</div>
+		</div>
+	</section>
