@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Innitiatives
+title: Initiatives
 description: null
 image: assets\images\sbfoton.jpg
 nav-menu: false
