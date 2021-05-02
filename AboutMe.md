@@ -55,4 +55,16 @@ nav-menu: true
 	</div>
 </section> 
 
+<section id="three">
+	<div class="inner">
+		<header class="major">
+			<h2>OSA Outreach</h2>
+		</header>
+		<p>assets/IONS</p>
+		<ul class="actions">
+			<li><a href="Initiatives.html" class="button next">Get Started</a></li>
+		</ul>
+	</div>
+</section> 
+
 </div>
