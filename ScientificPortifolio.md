@@ -13,6 +13,12 @@ carousel:
 
 ---
 
+<object data="assets\pdf\CV_LeticiaMagalhaes.pdf" type="application/pdf"
+width=100% height="700">
+  Your browser does not support pdfs, <a href="\Jeremiah_Jacobson_resume.pdf">click here to
+  download the file.</a>
+</object>
+
 <h1>Presentations</h1>
 Here are some interesting presentations I did in the past year.
 <ol>
