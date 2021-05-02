@@ -27,7 +27,7 @@ nav-menu: true
 	<section>
 		<!-- <a href="EXTRA_Talks.html" class="image">
 			<img src="{% link assets\images\IMG_1672.jpg %}" alt="" data-position="center center" /> -->
-		</a>
+		<!-- </a> -->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
