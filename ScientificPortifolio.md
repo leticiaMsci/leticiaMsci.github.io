@@ -6,12 +6,6 @@ date: 2013-07-03 21:40:10
 nav-menu: true
 image: 
 categories:
-carousel:
-  - image: assets\images\1D Weak-form solution of elastic wave equations in onion-like systems.png
-  - image: assets\images\Tarantula-Inspired Noniridescent Photonics with Long-Range Order.png
-  - image: assets\images\70nm.jpg
-  - image: assets\images\reflec_transm.png
-
 ---
 
 
