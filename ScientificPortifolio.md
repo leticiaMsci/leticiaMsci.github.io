@@ -3,6 +3,7 @@ layout: post
 title:  Scientific Portifolio
 #description: whatever you find here is in the intersection between my favorite topics, nice illustrations and projects mature enough for me to enthusiastically talk about them. I'll post more as new projects leave the "TOP SECRET" realm. 
 date: 2013-07-03 21:40:10
+nav-menu: true
 image: 
 categories:
 carousel:
@@ -13,11 +14,6 @@ carousel:
 
 ---
 
-<object data="assets\pdf\CV_LeticiaMagalhaes.pdf" type="application/pdf"
-width=100% height="700">
-  Your browser does not support pdfs, <a href="assets\pdf\CV_LeticiaMagalhaes.pdf">click here to
-  download the file.</a>
-</object>
 
 <h1>Presentations</h1>
 Here are some interesting presentations I did in the past year.
