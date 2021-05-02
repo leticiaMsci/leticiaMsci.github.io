@@ -4,7 +4,7 @@ title: Talks and Innitiatives
 description: null
 image: assets\images\IMG_1672.jpg
 nav-menu: false
-show_tile: false
+#show_tile: false
 ---
 
 <h1>Photonics Webinar Series </h1>
