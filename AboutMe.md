@@ -2,7 +2,7 @@
 layout: landing
 title: About Me
 image: assets/images/aboutme.jpg
-description: 
+#description: 
 nav-menu: true
 ---
 <!-- Main -->
