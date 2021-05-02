@@ -6,14 +6,8 @@ image: assets/images/aboutme.jpg
 nav-menu: true
 ---
 
-<object data="assets\pdf\CV_LeticiaMagalhaes.pdf" type="application/pdf"
-width=100% height="700">
-  Your browser does not support pdfs, <a href="assets\pdf\CV_LeticiaMagalhaes.pdf">click here to
-  download the file.</a>
-</object>
 
-
-<object data="assets\pdf\CV_LeticiaMagalhaes.pdf" type="application/pdf" width="700px" height="700px">
+<object data="assets\pdf\CV_LeticiaMagalhaes.pdf" type="application/pdf" width="100%" height="700px">
     <embed src="assets\pdf\CV_LeticiaMagalhaes.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets\pdf\CV_LeticiaMagalhaes.pdf">Download PDF</a>.</p>
     </embed>
