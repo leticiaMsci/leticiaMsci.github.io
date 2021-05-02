@@ -25,3 +25,37 @@ nav-menu: true
 </ul>
 
 
+<!-- Main -->
+<div id="main">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			<-- <h2>Sed amet aliquam</h2> -->
+		</header>
+		<p></p>
+	</div>
+</section>
+
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="3D_gotyournose.html" class="image">
+			<img src="{% link assets/images/GotYourNose_Logo.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Christmas!</h3>
+				</header>
+				<p>I was in the Christmas mood today and wanted to create something on the fun side.</p>
+				<ul class="actions">
+					<!-- <li><a href="3D_Phonon.html" class="button">Learn more</a></li> -->
+				</ul>
+			</div>
+		</div>
+	</section>
+
+
+
