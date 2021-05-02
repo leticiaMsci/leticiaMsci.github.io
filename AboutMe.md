@@ -32,38 +32,6 @@ nav-menu: true
 	</div>
 </section>
 
-<!-- One
-<section id="two" class="spotlights">
-	<div class="inner">
-		<header class="major">
-			  <h2>Initiatives</h2>
-		</header>
-		<p>I organized and enabled several events. Some of them were &quot;hard-core&quot; scientific, but some were geared towards diversity and inclusion initiatives. I found that brave spaces allowed me to talk about issues in STEM, and it was comforting to know that I wasn't alone, so I wanted to help others the same way.</p>
-	</div>
-</section>
- -->
-
-<!--
-<div style="display: inline-flex;">
-  
-  <div>
-  		<a href="Initiatives.html" class="image">
-			<img  style="display: inline-block" src="/assets/images/phonon.png" width="500" height="400" data-position="center center" />
-		</a>
-  </div>
-
-  <div>
-  <h3>Initiatives</h3>
-
-<p>I organized and enabled several events. Some of them were &quot;hard-core&quot; scientific, but some were geared towards diversity and inclusion initiatives. I found that brave spaces allowed me to talk about issues in STEM, and it was comforting to know that I wasn't alone, so I wanted to help others the same way.</p>
-<ul class="actions">
-<li><a href="Initiatives.html" class="button next">Learn More</a></li>
-</ul>
-
-  
-  </div>
-</div>
--->
 
 <section style="display: inline-flex;">
 		<a href="Initiatives.html" class="image">
@@ -82,17 +50,17 @@ nav-menu: true
 		</div>
 </section>
 
-<!-- One
+
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>OSA Outreach</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>assets/IONS</p>
 		<ul class="actions">
 			<li><a href="Initiatives.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
 </section> 
--->
+
 </div>
