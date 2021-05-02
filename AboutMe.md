@@ -9,8 +9,7 @@ nav-menu: true
     <li style="list-style-type: none;">
         <ul>
             <li>
-                <p style="margin-left: 20px;">la</p>
-                <h2 style="margin-left: 20px;">CV</h2>
+                <h1 style="margin-left: 20px;">Here is my CV</h1>
                       <object data="assets\pdf\CV_LeticiaMagalhaes.pdf" type="application/pdf" width="100%" height="600px">
                         <embed src="assets\pdf\CV_LeticiaMagalhaes.pdf">
                           <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets\pdf\CV_LeticiaMagalhaes.pdf">Download PDF</a>.</p>
@@ -18,7 +17,6 @@ nav-menu: true
                       </object>
                 <p style="margin-left: 20px;"><br></p>
                 <h2 style="margin-left: 20px;">Initiatives</h2>
-                <p style="margin-left: 20px;">I organized and enabled several events. Some of them were &quot;hard-core&quot; scientific, but some were geared towards diversity and inclusion initiatives. I found that talking about issues in STEM and forming brave spaces were very helpful to me, so I wanted to help others the same way.<br><br></p>
             </li>
         </ul>
     </li>
@@ -32,7 +30,7 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<-- <h2>Sed amet aliquam</h2> -->
+			 <!-- <h2>Sed amet aliquam</h2> -->
 		</header>
 		<p></p>
 	</div>
@@ -41,15 +39,15 @@ nav-menu: true
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-		<a href="3D_gotyournose.html" class="image">
-			<img src="{% link assets/images/GotYourNose_Logo.png %}" alt="" data-position="center center" />
+		<a href="EXTRA_Talks.html" class="image">
+			<img src="{% link assets\images\IMG_1672.jpg %}" alt="" data-position="center center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Christmas!</h3>
+					<h3>Talks and Initiatives</h3>
 				</header>
-				<p>I was in the Christmas mood today and wanted to create something on the fun side.</p>
+				<p>I organized and enabled several events. Some of them were &quot;hard-core&quot; scientific, but some were geared towards diversity and inclusion initiatives. I found that brave spaces allowed me to talk about issues in STEM, and it was comforting to know that I wasn't alone, so I wanted to help others the same way.</p>
 				<ul class="actions">
 					<!-- <li><a href="3D_Phonon.html" class="button">Learn more</a></li> -->
 				</ul>
