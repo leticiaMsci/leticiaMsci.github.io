@@ -2,7 +2,7 @@
 layout: post
 title: Talks and Innitiatives
 description: null
-image: assets\images\IMG_1672.jpg
+image: assets\images\sbfoton.jpg
 nav-menu: false
 #show_tile: false
 ---
