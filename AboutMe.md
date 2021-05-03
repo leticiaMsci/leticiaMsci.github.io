@@ -43,7 +43,7 @@ nav-menu: true
 
 <section style="display: inline-flex;">
 		<a href="Initiatives.html" class="image">
-			<img src="assets\images\sbfoton.jpg" data-position="center center" />
+			<img src="assets\images\sbfoton.jpg" data-position="center center" width="1000"/>
 		</a>
 		<div class="content" style="margin: 35px;">
 			<div class="inner">
