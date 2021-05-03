@@ -59,21 +59,22 @@ nav-menu: true
 </section>
 
 
-<section id="three">
-		<a href="Initiatives.html" class="image">
+<section style="display: inline-flex;">
+		<a href="Outreach.html" class="image">
 			<img src="assets\images\IONS\20190726_102203.jpg" data-position="center center" />
 		</a>
 		<div class="content" style="margin: 35px;">
-		<div class="inner">
-			<header class="major">
-				<h3>Outreach</h3>
-			</header>
-			<p>assets/IONS</p>
-			<ul class="actions">
-				<li><a href="Outreach.html" class="button next">Learn More</a></li>
-			</ul>
+			<div class="inner">
+				<header class="major">
+					<h3>Outreach</h3>
+				</header>
+				<p>I organized and enabled several events. Some of them were &quot;hard-core&quot; scientific, but some were geared towards diversity and inclusion initiatives. I found that brave spaces allowed me to talk about issues in STEM, and it was comforting to know that I wasn't alone, so I wanted to help others the same way.</p>
+				<ul class="actions">
+					<li><a href="Outreach.html" class="button next">Learn More</a></li>
+				</ul>
+			</div>
 		</div>
-	</div>
-</section> 
+</section>
+
 
 </div>
