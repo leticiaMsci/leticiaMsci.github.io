@@ -61,7 +61,7 @@ nav-menu: true
 
 <section style="display: inline-flex;">
 		<a href="Outreach.html" class="image">
-			<img src="assets\images\IONS\20190726_102203.jpg" data-position="center center" width="1300"/>
+			<img src="assets\images\IONS\20190726_102203.jpg" data-position="center center" width="1000"/>
 		</a>
 		<div class="content" style="margin: 35px;">
 			<div class="inner">
