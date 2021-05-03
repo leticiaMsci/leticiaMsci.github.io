@@ -32,6 +32,14 @@ nav-menu: true
 	</div>
 </section>
 
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<header class="major">
+			      <h2> Extracurriculars</h2>
+		</header>
+	</div>
+</section>
 
 <section style="display: inline-flex;">
 		<a href="Initiatives.html" class="image">
