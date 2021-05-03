@@ -3,7 +3,7 @@ layout: post
 title: Initiatives
 description: null
 # image: assets\images\sbfoton.jpg
-nav-menu: false
+nav-menu: true
 show_tile: false
 ---
 
