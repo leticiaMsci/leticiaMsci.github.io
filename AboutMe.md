@@ -35,7 +35,7 @@ nav-menu: true
 
 <section style="display: inline-flex;">
 		<a href="Initiatives.html" class="image">
-			<img src="/assets/images/sbfoton.jpg" data-position="center center" />
+			<img src="assets\images\sbfoton.jpg" data-position="center center" />
 		</a>
 		<div class="content" style="margin: 35px;">
 			<div class="inner">
@@ -52,14 +52,19 @@ nav-menu: true
 
 
 <section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>OSA Outreach</h2>
-		</header>
-		<p>assets/IONS</p>
-		<ul class="actions">
-			<li><a href="Initiatives.html" class="button next">Get Started</a></li>
-		</ul>
+		<a href="Initiatives.html" class="image">
+			<img src="assets\images\IONS\20190726_102203.jpg" data-position="center center" />
+		</a>
+		<div class="content" style="margin: 35px;">
+		<div class="inner">
+			<header class="major">
+				<h3>Outreach</h3>
+			</header>
+			<p>assets/IONS</p>
+			<ul class="actions">
+				<li><a href="Outreach.html" class="button next">Learn More</a></li>
+			</ul>
+		</div>
 	</div>
 </section> 
 
