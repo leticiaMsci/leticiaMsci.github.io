@@ -1,7 +1,7 @@
 ---
 title: Landing
 layout: landing
-description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+description: 'Lorem ipsum dolor sit amet nullam consequa sed veroeros. tempus adipiscing nulla.'
 image: assets/images/render3.png
 nav-menu: true
 ---
