@@ -44,7 +44,7 @@ nav-menu: true
 
 <section style="display: inline-flex;">
 		<a href="IONS_ELO.html" class="image">
-			<img src="assets\images\IONS\header.png" data-position="center center" width="25%"/>
+			<img src="assets\images\IONS\header.png" data-position="center center" width="45%"/>
 		</a>
 		<div class="content" style="margin: 35px;">
 			<div class="inner">
@@ -62,7 +62,7 @@ nav-menu: true
 
 <section style="display: inline-flex;">
 		<a href="Initiatives.html" class="image">
-			<img src="assets\images\sbfoton.jpg" data-position="center center" width="25%"/>
+			<img src="assets\images\sbfoton.jpg" data-position="center center" width="45%"/>
 		</a>
 		<div class="content" style="margin: 35px;">
 			<div class="inner">
@@ -80,7 +80,7 @@ nav-menu: true
 
 <section style="display: inline-flex;">
 		<a href="Outreach.html" class="image">
-			<img src="assets\images\IONS\20190726_102203.jpg" data-position="center center" width="25%"/>
+			<img src="assets\images\IONS\20190726_102203.jpg" data-position="center center" width="45%"/>
 		</a>
 		<div class="content" style="margin: 35px;">
 			<div class="inner">
