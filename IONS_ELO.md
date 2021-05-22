@@ -1,3 +1,16 @@
+---
+layout: post
+title: International OSA Network of Students and Ecuela Latinoamericana de Optica, 2019
+description: null
+# image: assets\images\sbfoton.jpg
+nav-menu: true
+show_tile: false
+---
+
+
+
+As president of the OSA student chapter at Unicamp I led 23 members to organize an IONS event. Here are some pictures of this conference that hosted 119 attendees from 7 different countries, 3 international and 4 national speakers.
+
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
   data-link="https://photos.app.goo.gl/pBttearocxbnMEkSA"
