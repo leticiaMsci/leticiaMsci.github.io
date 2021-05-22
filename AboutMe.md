@@ -42,9 +42,50 @@ nav-menu: true
 </section>
 
 
+<!-- Two -->
+<section id="two" class="spotlights">
+	<section>
+		<a href="IONS_ELO.html" class="image">
+			<img src="{% link assets\images\IONS\header.png %}" alt="" data-position="center center" />
+		</a>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>International OSA Network of Students</h3>
+				</header>
+				<p>As president of the OSA student chapter at Unicamp we organized an IONS event. Here are some pictures of this event that hosted 119 attendees from 7 different countries, 3 international and 4 national speakers.</p>
+				<ul class="actions">
+					 <li><a href="IONS_ELO.html" class="button">Learn more</a></li>
+				</ul>
+			</div>
+		</div>
+	</section>
+
+<section>
+	<a href="Initiatives.html" class="image">
+		<img src="{% link assets\images\sbfoton.jpg %}" alt="" data-position="center center" />
+	</a>
+	<div class="content">
+		<div class="inner">
+			<header class="major">
+				<h3>Initiatives</h3>
+			</header>
+			<p>I organized and enabled several events. Some of them were &quot;hard-core&quot; scientific, but some were geared towards diversity and inclusion initiatives. I found that brave spaces allowed me to talk about issues in STEM, and it was comforting to know that I wasn't alone, so I wanted to help others the same way.</p>
+			<ul class="actions">
+				<li><a href="3D_Phonon.html" class="button">Learn more</a></li>
+			</ul>
+		</div>
+	</div>
+</section>
+
+</section>
+
+
+
+
 <section style="display: inline-flex;">
 		<a href="IONS_ELO.html" class="image">
-			<img src="assets\images\IONS\header.png" data-position="center center" width="45%"/>
+			<img src="assets\images\IONS\header.png" data-position="center center" width="100%"/>
 		</a>
 		<div class="content" style="margin: 35px;">
 			<div class="inner">
@@ -62,7 +103,7 @@ nav-menu: true
 
 <section style="display: inline-flex;">
 		<a href="Initiatives.html" class="image">
-			<img src="assets\images\sbfoton.jpg" data-position="center center" width="45%"/>
+			<img src="assets\images\sbfoton.jpg" data-position="center center" width="100%"/>
 		</a>
 		<div class="content" style="margin: 35px;">
 			<div class="inner">
@@ -80,7 +121,7 @@ nav-menu: true
 
 <section style="display: inline-flex;">
 		<a href="Outreach.html" class="image">
-			<img src="assets\images\IONS\20190726_102203.jpg" data-position="center center" width="45%"/>
+			<img src="assets\images\IONS\20190726_102203.jpg" data-position="center center" width="100%"/>
 		</a>
 		<div class="content" style="margin: 35px;">
 			<div class="inner">
