@@ -4,7 +4,7 @@ title: IONS ELO, 2019
 description: null
 image: assets\images\IONS\capa.jpg
 nav-menu: true
-show_tile: true
+show_tile: false
 ---
 
 
