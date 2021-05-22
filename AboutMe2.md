@@ -3,7 +3,7 @@ title: Landing
 layout: landing
 # description: lorem
 image: assets/images/aboutme.jpg
-nav-menu: true
+nav-menu: false
 ---
 
 <!-- Main -->
