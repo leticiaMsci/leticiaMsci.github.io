@@ -1,6 +1,6 @@
 ---
 layout: post
-title: International OSA Network of Students and Ecuela Latinoamericana de Optica, 2019
+title: IONS ELO, 2019
 description: null
 # image: assets\images\sbfoton.jpg
 nav-menu: false
