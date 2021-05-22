@@ -3,7 +3,7 @@ layout: post
 title: IONS ELO, 2019
 description: null
 # image: assets\images\sbfoton.jpg
-nav-menu: false
+nav-menu: true
 show_tile: true
 ---
 
