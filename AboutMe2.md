@@ -1,11 +1,10 @@
 ---
-title: About Me 2
+title: Landing
 layout: landing
-#description: My interest in 3D modeling was initially devoted to improve my scientific illustrations. I see 3D modeling as a great way to quicly explain complex physical concepts by taking advantage of the visual sense's "higher badwidth" .
-image: assets/images/aboutme.jpg
+description: 'Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus adipiscing nulla.'
+image: assets/images/pic07.jpg
 nav-menu: true
 ---
-
 
 <!-- Main -->
 <div id="main">
@@ -14,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Who am I?</h2>
+			<h2>Sed amet aliquam</h2>
 		</header>
-		<p>My name is Leticia Magalhaes, and I am a dual bachelor's in Physics and Optoelectronics Engineering, and an Applied Physics master's student at the State University of Campinas. I am currently researching means to design light-sound interactions via hybrid material interfaces in optical cavities. &nbsp;I have experience with optical forces, Brillouin scattering, and photonic design. My research focuses on investigating how light interacts with sound and its surrounding media, aiming to pave the way for milestones within the photonics industry. Additionally, I am absolutely passionate about optics and photonic design since I see optical technologies as a playground of opportunities for re-inventing the technological setting, pushing the boundaries between reality and science fiction. On that note, I also believe science to be an incubator to the future of society and am devoted to diversity initiatives that can help make science, specifically STEM, more democratic.</p>
+		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
 	</div>
 </section>
 
