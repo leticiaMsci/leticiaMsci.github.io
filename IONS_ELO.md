@@ -3,8 +3,8 @@ layout: post
 title: International OSA Network of Students and Ecuela Latinoamericana de Optica, 2019
 description: null
 # image: assets\images\sbfoton.jpg
-nav-menu: true
-show_tile: false
+nav-menu: false
+show_tile: true
 ---
 
 
