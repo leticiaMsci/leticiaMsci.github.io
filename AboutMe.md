@@ -41,6 +41,25 @@ nav-menu: true
 	</div>
 </section>
 
+
+<section style="display: inline-flex;">
+		<a href="IONS_ELO.html" class="image">
+			<img src="assets\images\IONS\22.png" data-position="center center" width="1000"/>
+		</a>
+		<div class="content" style="margin: 35px;">
+			<div class="inner">
+				<header class="major">
+					<h3>International OSA Network of Students</h3>
+				</header>
+				<p>As president of the OSA student chapter at Unicamp we organized an IONS event. Here are some pictures of this event that hosted 119 attendees from 7 different countries, 3 international and 4 national speakers.</p>
+				<ul class="actions">
+					<li><a href="IONS_ELO.html" class="button next">Learn More</a></li>
+				</ul>
+			</div>
+		</div>
+</section>
+
+
 <section style="display: inline-flex;">
 		<a href="Initiatives.html" class="image">
 			<img src="assets\images\sbfoton.jpg" data-position="center center" width="1000"/>
