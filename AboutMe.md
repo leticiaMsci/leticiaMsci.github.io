@@ -94,7 +94,7 @@ nav-menu: true
 	</section>
 </section>
 
-<!-- Three -->
+<!-- <!-- Three
 <section id="three">
 	<div class="inner">
 		<header class="major">
@@ -105,6 +105,6 @@ nav-menu: true
 			<li><a href="IONS_ELO.html" class="button next">Get Started</a></li>
 		</ul>
 	</div>
-</section>
+</section> -->
 
 </div>
