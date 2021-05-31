@@ -9,7 +9,7 @@ show_tile: false
 
 
 
-As president of the OSA student chapter at Unicamp I led 23 members to organize an IONS event. Here are some pictures of this conference that hosted 119 attendees from 7 different countries, 3 international and 4 national speakers.
+As president of the OSA student chapter at Unicamp I led 23 members to organize an IONS event. Here are some pictures of this conference that hosted 119 attendees from 7 different countries, 3 international and 4 national speakers. Please use the arrows to swipe to new pictures.
 
 <script src="https://cdn.jsdelivr.net/npm/publicalbum@latest/embed-ui.min.js" async></script>
 <div class="pa-gallery-player-widget" style="width:100%; height:480px; display:none;"
