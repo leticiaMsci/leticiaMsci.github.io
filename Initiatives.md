@@ -8,7 +8,7 @@ show_tile: false
 ---
 
 <h1>Photonics Webinar Series </h1>
-<p>Mengjie is a 2020 OSA Ambassador and I met her online during OSA events. Her research is outstanding, and I personally find it really interesting. Our student chapter at Unicamp doing a series of webinars on hot topics in optics and photonics, the "Photonics Webinar Series." Precisely because of our vision, when I met Mengjie, she felt like the perfect speaker to debut this series.<br><br>She accepted our invitation and our chapter was honored to have her.</p>
+<p>Mengjie is a 2020 OSA Ambassador. Her research is outstanding, and I personally find it really interesting. Our student chapter at Unicamp was planning a series of webinars on hot topics in optics and photonics, the "Photonics Webinar Series." Precisely because of our vision, when I met Mengjie, she felt like the perfect speaker to debut this series.<br><br>She accepted our invitation and our chapter was honored to have her.</p>
  <p><img src="assets\images\Talks\Yu_Mengjie.png" width="400" ></p>
 
 
