@@ -31,20 +31,30 @@ categories:
 <iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTOblEG91RV1OhNwG_XyeRs33pRUSi8Rf-W2KNy50sCi1w_LnEIypFGR8N2qDLHibzPH43zfc00cIHz/embed?start=false&loop=false&delayms=60000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
  
 
-<!-- 
+
 
 <h1>Posters</h1>
 <ol>
 <h3>Study and Fabrication of Photonic Nanospikes</h3>
      <object data="assets\pdf\Poster_PIBIC2017.pdf" type="application/pdf" width="100%" height="700px">
-                        <embed src="assets\pdf\CV_LeticiaMagalhaes.pdf">
-                          <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets\pdf\CV_LeticiaMagalhaes.pdf">Download PDF</a>.</p>
+                        <embed src="assets\pdf\Poster_PIBIC2017.pdf">
+                          <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets\pdf\Poster_PIBIC2017.pdf">Download PDF</a>.</p>
                         </embed>
       </object>
 
 </ol>
 
+<ol>
+<h3>Photonic Devices Based on Optical Forces</h3>
+     <object data="assets\pdf\PosterSWIECA2018.pdf" type="application/pdf" width="100%" height="700px">
+                        <embed src="assets\pdf\PosterSWIECA2018.pdf">
+                          <p>This browser does not support PDFs. Please download the PDF to view it: <a href="assets\pdf\PosterSWIECA2018.pdf">Download PDF</a>.</p>
+                        </embed>
+      </object>
 
+</ol>
+
+<!-- 
 <h1>Reports</h1>
 <ol>
 <h3>Master's partial report</h3>
